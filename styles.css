@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(245, 246, 252, 0.73)),
+    background-image: linear-gradient(to , rgba(245, 246, 252, 0.1), rgba(245, 246, 252, 100)),
     url('images/office.jpg');
     background-size: cover;
 }
