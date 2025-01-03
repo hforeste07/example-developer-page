@@ -2,12 +2,10 @@ body{
     background-image: linear-gradient(to left, rgba(245, 246, 252, 0.1), rgba(245, 246, 252, 100)),
     url('images/office.jpg');
     background-size: cover;
-}
-
-.open-sans- {
-  font-family: "Open Sans", serif;
-  font-optical-sizing: auto;
-  font-style: normal;
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
 }
 
 .text-column{
