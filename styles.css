@@ -1,6 +1,6 @@
 body{
-    background-image: url('images/office.jpg');
-    -moz-linear-gradient: (end, #ADB2B6 0%, #ABAEB3 100%);
+    background-image: linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(245, 246, 252, 0.73)),
+    url('images/office.jpg');
     background-size: cover;
 }
 
