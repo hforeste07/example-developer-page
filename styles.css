@@ -1,0 +1,45 @@
+body{
+    background-image: url('images/office.jpg');
+    -moz-linear-gradient: (end, #ADB2B6 0%, #ABAEB3 100%);
+    background-size: cover;
+}
+
+.open-sans- {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.text-column{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 5%;
+}
+
+.company-name{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.description{
+    width: 320px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+button{
+    background: #0ea5e9;
+    color: whitesmoke;
+    padding: 20px 35px;
+    border: solid #0ea5e9;
+    font-family: "Open Sans", serif;
+    font-weight: bold;
+    
+}
+
+.underline{
+    text-decoration: underline #0ea5e9;
+    
+}
